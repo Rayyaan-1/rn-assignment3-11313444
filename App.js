@@ -97,7 +97,10 @@ export default function App() {
             source={require('./assets/art.jpg')}
             style={styles.artImage}
             resizeMode="contain"
-          />
+          /> 
+          
+
+
         </View>
       </View>
       <Text style={styles.categoriesText}>Ongoing Tasks</Text>
