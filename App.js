@@ -115,6 +115,48 @@ export default function App() {
       <View style={styles.whiteContainer}>
         <Text style={styles.whiteContainerText}>Push Up </Text>
       </View>
+      <View style={styles.whiteContainer}>
+        <Text style={styles.whiteContainerText}>Front-end Development </Text>
+        </View>
+        <View style={styles.whiteContainer}>
+        <Text style={styles.whiteContainerText}>Back-end Development </Text>
+        </View>
+        <View style={styles.whiteContainer}>
+        <Text style={styles.whiteContainerText}>Version Control  </Text>
+</View>
+      
+<View style={styles.whiteContainer}>
+        <Text style={styles.whiteContainerText}>Project Management  </Text>
+</View>
+      
+<View style={styles.whiteContainer}>
+        <Text style={styles.whiteContainerText}>Client communication </Text>
+</View>
+      
+<View style={styles.whiteContainer}>
+        <Text style={styles.whiteContainerText}>Testing Assuranve   </Text>
+</View>
+      
+<View style={styles.whiteContainer}>
+        <Text style={styles.whiteContainerText}>Project  Management </Text>
+</View>
+      
+<View style={styles.whiteContainer}>
+        <Text style={styles.whiteContainerText}>API Development  </Text>
+</View>
+<View style={styles.whiteContainer}>
+        <Text style={styles.whiteContainerText}>Accessibility </Text>
+</View>
+<View style={styles.whiteContainer}>
+        <Text style={styles.whiteContainerText}>Content Management </Text>
+</View>
+<View style={styles.whiteContainer}>
+        <Text style={styles.whiteContainerText}>Ux </Text>
+</View>
+<View style={styles.whiteContainer}>
+        <Text style={styles.whiteContainerText}>Security </Text>
+</View>
+      
 
       <StatusBar barStyle="auto" />
     </ScrollView>
